@@ -41,6 +41,18 @@
 
 - Object-relational mapping (ORM, O/RM, and O/R mapping tool) in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect, a "virtual object database" that can be used from within the programming language
 
+---
+
+### Our experience with Object-Relational Mappers
+
+- useful for simple operations
+-- entire object is read into memory, including it's children
+
+- for more complex operations you can still run standard queries
 
 ---
+
+## Golang!?
+###### LOL no generics
+
 
