@@ -52,7 +52,7 @@
 
 ---
 
-## Golang!?
-###### LOL no generics
+## Golang?
+LOL no generics
 
 
