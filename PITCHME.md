@@ -46,7 +46,7 @@
 ### Our experience with Object-Relational Mappers
 
 - useful for simple operations
--- entire object is read into memory, including it's children
+	- entire object is read into memory, including it's children
 
 - for more complex operations you can still run standard queries
 
@@ -54,5 +54,7 @@
 
 ## Golang?
 LOL no generics
+
+
 
 
