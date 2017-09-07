@@ -1,4 +1,5 @@
-#### HungerPerks
+![LOGO](https://hungerperks.com/images/HungerPerks-Log-with-Tagline-No-R.png)
+
 <br>
 <span style="color:gray">DataBases & More</span>
 
