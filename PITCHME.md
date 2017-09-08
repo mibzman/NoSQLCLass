@@ -5,8 +5,7 @@
 
 ---
 
-## Our Stack:
-<br>
+## Our Stack
 ### Frontend:
 - Angular2 Web
 - Ionic2 Mobile App
@@ -65,6 +64,8 @@
 - As many interesting libraries as python, but with most of the language features from C++
 - Fast compile times
 - multiple return values
+
+---
 
 ### Disadvantages:
 - Bad Dependency Management
