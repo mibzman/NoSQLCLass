@@ -5,7 +5,6 @@
 
 ---
 
-## Our Stack
 ### Frontend:
 - Angular2 Web
 - Ionic2 Mobile App
