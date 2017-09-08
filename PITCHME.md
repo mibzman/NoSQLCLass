@@ -5,8 +5,13 @@
 
 ---
 
-#### Our Stack:
+## Our Stack:
 <br>
+### Frontend:
+- Angular2 Web
+- Ionic2 Mobile App
+
+### Backend:
 - Golang
 - PostgreSQL
 - Gorm Object-Relational Mapper
@@ -54,8 +59,22 @@
 ---
 
 ## Golang?
-LOL no generics
+<sup>LOL no generics</sup>
 
+### Advantages:
+- As many interesting libraries as python, but with most of the language features from C++
+- Fast compile times
+- multiple return values
 
+### Disadvantages:
+- Bad Dependency Management
+- No generics
+- meme-ey community
+- Typical error management is extremely verbose
 
-
+```go
+Result, err := DoThing()
+if err := nil {
+	return err
+}
+```
