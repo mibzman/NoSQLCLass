@@ -9,6 +9,8 @@
 - Angular2 Web
 - Ionic2 Mobile App
 
+---
+
 ### Backend:
 - Golang
 - PostgreSQL
@@ -35,7 +37,7 @@
 #### PostGIS
 
 
-- PostGIS is a spatial database extender for PostgreSQL object-relational database. It adds support for geographic objects allowing location queries to be run in SQL
+- A spatial database extender for PostgreSQL object-relational database. It adds support for geographic objects allowing location queries to be run in SQL
 
 
 ---
@@ -43,7 +45,7 @@
 ### Gorm
 
 
-- Object-relational mapping a programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect, a "virtual object database" that can be used from within the programming language
+- Object-relational mapping a programming technique for converting data between incompatible type systems using object-oriented programming languages.
 
 ---
 
@@ -53,6 +55,8 @@
 	- entire object is read into memory, including it's children
 
 - for more complex operations you can still run standard queries
+
+- often handles creating new columns for us
 
 ---
 
@@ -78,3 +82,7 @@ if err := nil {
 	return err
 }
 ```
+
+---
+
+# ?
